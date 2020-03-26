@@ -36,4 +36,22 @@ bash sspanel-v3-mod-uim-bt.sh
 
 ps:本脚本并未在所有机器都测试过，处于新生脚本，</br>
 希望大家可以多提提意见，大家有问题可以及时返回给我</br>
-联系方式：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=0e0ad00fa39b8d74f9aee8aba6d4fa87387d41ae60a8f617e437a9ae5c4cea32">七彩blog交流群</a>
+联系方式：< 一个 目标 = “ _blank”  href = “ // shang.qq.com/wpa/qunwpa?idkey=0e0ad00fa39b8d74f9aee8aba6d4fa87387d41ae60a8f617e437a9ae5c4cea32 ” >七彩博客交流群</ a >
+备用前端一键安装脚本：
+```bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/gugd123/sspanel-v3/master/sspanel-v3-mod-uim-bt.sh &&
+chmod +x sspanel-v3-mod-uim-bt.sh &&
+bash sspanel-v3-mod-uim-bt.sh
+```
+备用后端一键安装脚本：
+```bash
+yum -y install wget &&
+wget -N --no-check-certificate https://raw.githubusercontent.com/gugd123/sspanel-v3/master/ss-panel-v3-mod-node-connect.sh &&
+bash ss-panel-v3-mod-node-connect.sh
+```
+原后端一键安装脚本：
+```bash
+yum -y install wget &&
+wget -N --no-check-certificate https://raw.githubusercontent.com/Lizhongnian/ss-panel-v3-mod-node-connect/master/ss-panel-v3-mod-node-connect.sh &&
+bash ss-panel-v3-mod-node-connect.sh
+```
