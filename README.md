@@ -11,3 +11,4 @@ bash sspanel-v3-mod-uim-bt.sh
 yum -y install wget &&
 wget -N --no-check-certificate https://raw.githubusercontent.com/gugd123/sspanel-v3/master/ss-panel-v3-mod-node-connect.sh &&
 bash ss-panel-v3-mod-node-connect.sh
+
