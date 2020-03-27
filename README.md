@@ -48,7 +48,7 @@ bash sspanel-v3-mod-uim-bt.sh
 备用后端一键安装脚本：
 ```bash
 yum -y install wget &&
-wget -N --no-check-certificate https://raw.githubusercontent.com/lizhongnian/ss-panel-v3-mod-node-connect/master/ss-panel-v3-mod-node-connect.sh && 
+wget -N --no-check-certificate https://raw.githubusercontent.com/gugd123/sspanel-v3/master/ss-panel-v3-mod-node-connect.sh && 
 chmod +x ss-panel-v3-mod-node-connect.sh && 
 bash ss-panel-v3-mod-node-connect.shh
 ```
