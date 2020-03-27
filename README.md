@@ -58,4 +58,10 @@ yyum -y install wget &&
 wget -N --no-check-certificate https://raw.githubusercontent.com/lizhongnian/ss-panel-v3-mod-node-connect/master/ss-panel-v3-mod-node-connect.sh && 
 chmod +x ss-panel-v3-mod-node-connect.sh && 
 bash ss-panel-v3-mod-node-connect.sh
-```
+````
+ssr客端操作;
+说明：SSH进入网站根目录
+
+1:cd /网站根目录
+
+2:php -n xcat initdownload
