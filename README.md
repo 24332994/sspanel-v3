@@ -64,4 +64,8 @@ ssr客端操作;
 
 1:cd /网站根目录
 
-2:php -n xcat initdownload
+2:
+```bash
+php -n xcat initdownload
+```
+
