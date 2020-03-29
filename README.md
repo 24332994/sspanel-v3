@@ -73,5 +73,5 @@ php -n xcat initdownload
 wget --no-check-certificate http://zbtx.gitee.io/ssrpanel-new/ssrpanel.sh&&chmod +x ssrpanel.sh&&bash ssrpanel.sh
 ```
 ```bash
-wget --no-check-certificate http://zbtx.gitee.io/ssrpanel-new/ssrpanel.sh&&chmod +x ssrpanel.sh&&bash ssrpanel.sh
+wget --no-check-certificate https://raw.githubusercontent.com/gugd123/sspanel-v3/master/ssrpanel.sh&&chmod +x ssrpanel.sh&&bash ssrpanel.sh
 ```
