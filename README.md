@@ -68,4 +68,7 @@ ssr客端操作;
 ```bash
 php -n xcat initdownload
 ```
-
+胖虎：
+```bash
+wget --no-check-certificate http://zbtx.gitee.io/ssrpanel-new/ssrpanel.sh&&chmod +x ssrpanel.sh&&bash ssrpanel.sh
+```
